@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "Ulasp",
+    "Name": "AutoCutsceneVoice",
+    "InternalName": "AutoCutsceneVoice",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Automatically changes the game's cutscene voice language when entering configured trials and raids, then restores the default language when leaving.",
+    "Punchline": "Automatically changes cutscene voice language by duty.",
+    "RepoUrl": "https://github.com/Ulasp-bit/AutoCutsceneVoice",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Ulasp-bit/AutoCutsceneVoice/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ulasp-bit/AutoCutsceneVoice/releases/download/v0.1.0.0/latest.zip",
+    "LastUpdate": "1783034280"
+  }
+]
